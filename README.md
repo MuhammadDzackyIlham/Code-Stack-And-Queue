@@ -1,2 +1,3 @@
-# Code-Stack-And-Queue
-Code Stack And Queue
+Nama : Muhammad Dzacky Ilham
+NIM : H071211071
+Kelas : Struktur Data B
